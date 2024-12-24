@@ -1,5 +1,5 @@
-# Compiler Final Project-Mini LISP interpreter
-NCU 113-1 Compiler Final Project
+# Compiler Final Project
+NCU 113-1 Compiler Final Project - Mini LISP interpreter
 
 ### Finished
 
