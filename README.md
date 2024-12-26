@@ -13,13 +13,13 @@ NCU 113-1 Compiler Final Project - Mini LISP interpreter
 - [x] 8. Named Function
 
 ### How to Run in Linux system
-'''cpp
+```cpp
 bison -d -o y.tab.c fp.y
 gcc -c -g -I.. y.tab.c
 flex -o lex.yy.c fp.l
 gcc -c -g -I.. lex.yy.c
 gcc -o fp y.tab.o lex.yy.c -ll -lm
-'''
-'''cpp
+```
+```cpp
 ./fp < <file name>
-'''
+```
