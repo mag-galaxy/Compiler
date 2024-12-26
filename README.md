@@ -11,6 +11,10 @@ NCU 113-1 Compiler Final Project - Mini LISP interpreter
 - [x] 6. Variable Definition
 - [x] 7. Function
 - [x] 8. Named Function
+- [ ] b1. Recursion
+- [ ] b2. Type Checking
+- [ ] b3. Nested Function
+- [ ] b4. First-class Function
 
 ### How to Run it in Linux system
 ```cpp
