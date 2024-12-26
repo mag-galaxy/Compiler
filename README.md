@@ -12,7 +12,7 @@ NCU 113-1 Compiler Final Project - Mini LISP interpreter
 - [x] 7. Function
 - [x] 8. Named Function
 
-### How to Run in Linux system
+### How to Run it in Linux system
 ```cpp
 bison -d -o y.tab.c fp.y
 gcc -c -g -I.. y.tab.c
