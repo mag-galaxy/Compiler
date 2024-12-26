@@ -5,8 +5,8 @@ NCU 113-1 Compiler Final Project - Mini LISP interpreter
 + Language: C, Lex, Yacc
 
 ### Code Description
-[tab]1. fp.l for tokenizing input
-[tab]2. fp.y for building an AST, then traverse the AST and do the action
+[Tab]1. fp.l for tokenizing input
+[Tab]2. fp.y for building an AST, then traverse the AST and do the action
 
 ### Finished
 
