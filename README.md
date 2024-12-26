@@ -16,7 +16,7 @@ NCU 113-1 Compiler Final Project - Mini LISP interpreter
 - [ ] b3. Nested Function
 - [ ] b4. First-class Function
 
-### How to Run it in Linux system
+### How to Run it in Linux system (Virtual Box)
 ```cpp
 bison -d -o y.tab.c fp.y
 gcc -c -g -I.. y.tab.c
