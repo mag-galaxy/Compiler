@@ -9,5 +9,5 @@ NCU 113-1 Compiler Final Project - Mini LISP interpreter
 - [x] 4. Logical Operations
 - [x] 5. if Expression
 - [x] 6. Variable Definition
-- [ ] 7. Function
-- [ ] 8. Named Function
+- [x] 7. Function
+- [x] 8. Named Function
