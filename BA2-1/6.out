@@ -1,0 +1,15 @@
+"" STRING
+'' STRING
+"a b" STRING
+'c  d' STRING
+"J Q" STRING
+"ab  cd'efg" STRING
+'hijkl   mn"opq' STRING
+"123jksl ekc" STRING
+'werq 837  uio' STRING
+'rtyu oiu INVALID
+tu ' INVALID
+"vwx INVALID
+yz" INVALID
+"ac"bsd" INVALID
+'lkeo'oqieor' INVALID

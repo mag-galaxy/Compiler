@@ -1,0 +1,18 @@
+"""
+Multiline ~~~~
+"""
+# This is my first comment.
+if True:
+	if False:
+		print(123)
+		# print("This is my second comment.")
+		if True:
+			print(456)
+	print(789)
+	# This is my third comment.
+	"""
+	if(true) {
+		cout << "Oooooo~" << endl;
+	}
+	"""
+print("Oh yeah~~ Oh yeah~~")

@@ -1,0 +1,15 @@
+"""
+Operating System Concepts, 10/e (IE-Paperback)
+"""
+print(9781119586166)
+print("Part 1 Overview")
+print("Part 2 Process Management")
+print("Part 3 Process Synchronization")
+print("Part 4 Memory Management")
+print("Part 5 Storage Management")
+print("Part 6 File System")
+print("Part 7 Security and Protection")
+print("Part 8 Advanced Topics")
+print("Part 9 Case Studies")
+print("Part 10 Appendices")
+# This is the end

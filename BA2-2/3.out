@@ -1,0 +1,9 @@
+// ifififififififif
+
+/*
+cout << "trap" << endl;
+if(true) {
+	cout << "coutcout" << endl;
+}
+*/
+cout << "12345" << endl;

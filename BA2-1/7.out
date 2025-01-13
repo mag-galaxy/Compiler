@@ -1,0 +1,8 @@
+true BOOLEAN
+false BOOLEAN
+true false INVALID
+false  true INVALID
+tuer INVALID
+"true" STRING
+flase INVALID
+"flase" STRING

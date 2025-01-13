@@ -1,0 +1,21 @@
+/*
+Multiline ~~~~
+*/
+// This is my first comment.
+if(true) {
+	if(false) {
+		cout << 123 << endl;
+		// print("This is my second comment.")
+		if(true) {
+			cout << 456 << endl;
+		}
+	}
+	cout << 789 << endl;
+	// This is my third comment.
+	/*
+	if(true) {
+		cout << "Oooooo~" << endl;
+	}
+	*/
+}
+cout << "Oh yeah~~ Oh yeah~~" << endl;

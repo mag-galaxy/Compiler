@@ -1,0 +1,15 @@
+/*
+Operating System Concepts, 10/e (IE-Paperback)
+*/
+cout << 9781119586166 << endl;
+cout << "Part 1 Overview" << endl;
+cout << "Part 2 Process Management" << endl;
+cout << "Part 3 Process Synchronization" << endl;
+cout << "Part 4 Memory Management" << endl;
+cout << "Part 5 Storage Management" << endl;
+cout << "Part 6 File System" << endl;
+cout << "Part 7 Security and Protection" << endl;
+cout << "Part 8 Advanced Topics" << endl;
+cout << "Part 9 Case Studies" << endl;
+cout << "Part 10 Appendices" << endl;
+// This is the end
