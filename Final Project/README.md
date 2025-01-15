@@ -4,7 +4,7 @@ NCU 2024 Fall Compiler Final Project - Mini LISP interpreter
 ### Code Description
 + Language: C, Lex, Yacc
 + fp.l for tokenizing input
-+ fp.y for building an AST, then traverse the AST and do the action
++ fp.y for building an AST, then traverse the AST and do the action (drawing help you understand AST better!)
 
 ### Finished
 
