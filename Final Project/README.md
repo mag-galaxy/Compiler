@@ -1,5 +1,5 @@
 # Compiler Final Project
-NCU 113-1 Compiler Final Project - Mini LISP interpreter
+NCU 2024 Fall Compiler Final Project - Mini LISP interpreter
 
 ### Code Description
 + Language: C, Lex, Yacc
