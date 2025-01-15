@@ -1,6 +1,5 @@
 # Compiler
-NCU 113-1 Compiler Course: CE3006
+NCU 2024 Fall CE3006 Compiler
 
-### Content
 + 3 Boss Attacks
 + Final Project
